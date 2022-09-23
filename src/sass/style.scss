@@ -130,6 +130,7 @@ html {
 		text-align: left;
 
 		h1 {
+			
 			font-size: 8rem;
 			font-family: 'Cormorant Garamond', serif;
 			font-weight: 500;
@@ -140,6 +141,7 @@ html {
 			font-size: 2.3rem;
 			line-height: 1.6em;
 			margin-bottom: 1em;
+			
 		}
 
 		span {
@@ -212,6 +214,7 @@ html {
 	
 
 		h2{
+			text-align: center;
 			font-size: 7rem;
 			font-family: 'Cormorant Garamond', serif;
 			font-weight:300;
@@ -520,6 +523,7 @@ html {
 }
 
 .header {	
+	
 	&__text {
 		backdrop-filter: none;
 		padding: 3em;
@@ -698,6 +702,7 @@ html {
 				font-weight:700;
 				text-align:left;
 				font-size:8rem;
+				text-align: center;
 				width: 40%;
 				margin-left:0.5em;
 			}
@@ -745,6 +750,7 @@ html {
 			h2{
 				text-align:right;
 				font-size:8rem;
+				text-align: center;
 				width: 40%;
 				margin:0.5em 0.5em;
 			}
